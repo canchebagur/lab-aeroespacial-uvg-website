@@ -1,22 +1,54 @@
 # Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+# Cada idioma se define como una sección con su código ISO.
 
-# Default language
+# 🌎 Idioma por defecto: Español
+es:
+  languageCode: es
+  contentDir: content/es
+  title: "Laboratorio Aeroespacial UVG"
+  weight: 1
+  params:
+    description: "Sitio oficial del Laboratorio Aeroespacial de la Universidad del Valle de Guatemala."
+  menu:
+    main:
+      - name: Inicio
+        url: /
+        weight: 1
+      - name: Proyectos
+        url: /proyectos/
+        weight: 2
+      - name: Publicaciones
+        url: /publication/
+        weight: 3
+      - name: Equipo
+        url: /people/
+        weight: 4
+      - name: Contacto
+        url: /contact/
+        weight: 5
+
+# 🇬🇧 Segundo idioma: Inglés
 en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  languageCode: en
+  contentDir: content/en
+  title: "UVG Aerospace Laboratory"
+  weight: 2
+  params:
+    description: "Official site of the Aerospace Laboratory at Universidad del Valle de Guatemala."
+  menu:
+    main:
+      - name: Home
+        url: /
+        weight: 1
+      - name: Projects
+        url: /en/projects/
+        weight: 2
+      - name: Publications
+        url: /en/publication/
+        weight: 3
+      - name: People
+        url: /en/people/
+        weight: 4
+      - name: Contact
+        url: /en/contact/
+        weight: 5

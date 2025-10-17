@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
+  font: Minimal
   font_size: L
 
 # SEO
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Laboratorio Aeroespacial UVG. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
