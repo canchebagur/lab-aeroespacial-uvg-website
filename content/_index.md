@@ -1,80 +1,56 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Laboratorio Aeroespacial UVG
+date: 2024-12-10
 type: landing
 
 sections:
   - block: hero
+    design:
+      flip: false
     content:
       title: |
-        Wowchemy
-        Research Group
+        <strong>
+        Laboratorio Aeroespacial
+        UVG
+        </strong>
       image:
-        filename: welcome.jpg
+        filename: logo-lab.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        <div style="text-align: justify;">
+        <strong>¡Pioneros del desarrollo espacial guatemalteco!</strong> 
+        
+        Somos el equipo de investigación responsable del <strong>QUETZAL-1</strong>, el primer satélite guatemalteco lanzado exitosamente al espacio en 2020, y actualmente trabajamos en el desarrollo del <strong>QUETZAL-2</strong>, llevando la tecnología aeroespacial centroamericana a nuevas alturas 🚀.
+        </div>
+        
   - block: collection
+    id: publications
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      title: 
+        <strong>
+        Publicaciones Recientes
+        </strong>
+      subtitle: |
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
+        <div style="text-align: justify;">
+        Publicaciones recientes que muestran los avances y resultados de nuestros proyectos de investigación y desarrollo tecnológico.
+        </div>
+
+      text: ''
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: ''
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      order: desc
     design:
       view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      columns: '2'
 ---
