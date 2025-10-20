@@ -19,9 +19,10 @@ sections:
         <br>
         
         <div style="text-align: justify;">
-        <strong>¡Pioneros del desarrollo espacial guatemalteco!</strong> 
+        <strong>¡Pioneros del desarrollo espacial guatemalteco!</strong>
+        <br><br> 
         
-        Somos el equipo de investigación responsable del <strong>QUETZAL-1</strong>, el primer satélite guatemalteco lanzado exitosamente al espacio en 2020, y actualmente trabajamos en el desarrollo del <strong>QUETZAL-2</strong>, llevando la tecnología aeroespacial centroamericana a nuevas alturas 🚀.
+        Somos el equipo de investigación responsable del <strong>QUETZAL-1</strong>, el primer satélite guatemalteco lanzado exitosamente al espacio en 2020, y actualmente trabajamos en el desarrollo del <strong>QUETZAL-2</strong>, llevando la tecnología aeroespacial centroamericana a nuevas alturas 🚀
         </div>
         
   - block: collection

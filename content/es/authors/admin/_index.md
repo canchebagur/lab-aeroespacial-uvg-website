@@ -1,31 +1,34 @@
 ---
-# Display name
+# Nombre a desplegar en la página
 title: MSc. José Bagur
 
-# Full Name (for SEO)
+# Nombre Completo
 first_name: José 
 last_name: Bagur
 
-# Is this the primary user of the site?
+# Admin?
 superuser: true
 
-# Role/position
+# Posición en el Laboratorio
 role: Coordinador del Laboratorio
 
-# Organizations/Affiliations
+# Organizaciones/Afiliaciones
 organizations:
   - name: Universidad del Valle de Guatemala 
-    url: ''
+    url: 'https://www.uvg.edu.gt'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Biografía corta
+bio: Coordinador del Laboratorio Aeroespacial de la UVG, con experiencia en IoT, inteligencia artificial, sistemas embebidos y tecnología educativa.
 
+# Intereses 
 interests:
   - Nanosatélites
-  - Inteligencia artificial
-  - Sistemas embebidos
-  - Diseño instruccional
+  - Internet de las Cosas
+  - Inteligencia Artificial
+  - Sistemas Embebidos
+  - Diseño Instruccional
 
+# Educación
 education:
   courses:
     - course: M.A. Educación Superior y Tecnología Educativa
@@ -34,45 +37,38 @@ education:
     - course: MSc. Internet de las Cosas
       institution: Universidad de Salamanca
       year: 2017
-    - course: Ingenería en Mecatrónica
+    - course: BSc. Ingeniería en Mecatrónica
       institution: Universidad del Valle de Guatemala
       year: 2015  
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Redes sociales y contacto
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jabagur@uvg.edu.gt'
+    link: 'mailto:jabagur@uvg.edu.gt'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/joseantoniobagur/'
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/canchebagur/
+    link: 'https://www.instagram.com/canchebagur/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/canchebagur
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: 'https://github.com/canchebagur'
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Email para Gravatar
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+# Resaltar el nombre en listas de autores
+highlight_name: true
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Grupo organizacional al que pertenece dentro del Laboratorio
 user_groups:
-  - Investigadores Principales 
+  - Investigador Principal
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<div style="text-align: justify;">
+José Bagur es el Coordinador del Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG), donde lidera proyectos de investigación y desarrollo en tecnología espacial. Su experiencia abarca el Internet de las Cosas (IoT), sistemas embebidos, inteligencia artificial en el borde (Edge AI) y diseño instruccional.
+<br><br>
+Con formación en Ingeniería Mecatrónica y maestrías en IoT, Educación Superior y Tecnología Educativa, José combina su pasión por la tecnología con el desarrollo de experiencias educativas innovadoras para estudiantes interesados en la exploración espacial y las tecnologías emergentes.
+</div>

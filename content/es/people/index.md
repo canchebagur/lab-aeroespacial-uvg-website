@@ -9,7 +9,7 @@ sections:
     content:
       title: ¡Conoce al Equipo del Laboratorio!
       user_groups:
-        - Investigadores Principales
+        - Investigador Principal
         - Investigadores
         - Estudiantes de Pregrado
         - Investigadores Visitantes

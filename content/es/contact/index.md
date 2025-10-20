@@ -24,38 +24,14 @@ sections:
         longitude: '-90.4890'
       directions: CIT-115A
       office_hours:
-        - 'Lunes a viernes, de 7:00 a 18:00 hrs'
-      appointment_url: 'https://calendly.com/tulab'
+        - 'Lunes a viernes, de 7:00 a 17:00 hrs'
       autolink: true
 
-      # Formulario (Netlify). Déjalo tal cual si despliegas en Netlify.
+      # Formulario
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
-        netlify:
-          captcha: true   # ponlo en true para reducir spam
-    design:
+          id: xnngypoo  
+    design: 
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 ---
-
