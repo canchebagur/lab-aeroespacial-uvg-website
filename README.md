@@ -1,48 +1,125 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# Sitio Web del Laboratorio Aeroespacial UVG
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+[![Hugo](https://img.shields.io/badge/Hugo-0.110+-blue.svg)](https://gohugo.io)
+[![HugoBlox](https://img.shields.io/badge/HugoBlox-Latest-green.svg)](https://hugoblox.com)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+Sitio web oficial del **Laboratorio Aeroespacial de la Universidad del Valle de Guatemala**, construido con HugoBlox (anteriormente Wowchemy) y Hugo.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## 🚀 Acerca del Laboratorio
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+El Laboratorio Aeroespacial de la UVG es un espacio de investigación y desarrollo dedicado a la tecnología espacial, nanosatélites y sistemas embebidos. Este sitio web presenta nuestros proyectos, equipo de trabajo, publicaciones y actividades.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## 📋 Características del Sitio
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+- **Página de inicio** con información destacada del laboratorio
+- **Proyectos** de investigación y desarrollo
+- **Equipo** con perfiles de investigadores y colaboradores
+- **Publicaciones** académicas y técnicas
+- **Blog** con noticias y actualizaciones
+- **Formulario de contacto** integrado
+- **Responsive** y optimizado para dispositivos móviles
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## 🛠️ Tecnologías Utilizadas
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- [Hugo](https://gohugo.io/) - Generador de sitios estáticos
+- [HugoBlox](https://hugoblox.com) - Framework y constructor de páginas
+- [Formspree](https://formspree.io) - Gestión de formularios de contacto
 
-## We ask you, humbly, to support this open source movement
+## 📦 Instalación y Desarrollo Local
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+### Requisitos previos
+- Hugo Extended v0.110.0 o superior
+- Go 1.19 o superior (opcional)
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### Pasos de instalación
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+1. Clona el repositorio:
+```bash
+git clone https://github.com/tu-usuario/laboratorio-aeroespacial-uvg.git
+cd laboratorio-aeroespacial-uvg
+```
 
-## Demo credits
+2. Instala las dependencias de Hugo:
+```bash
+hugo mod get -u
+```
 
-Please replace the demo images with your own.
+3. Inicia el servidor de desarrollo:
+```bash
+hugo server
+```
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+4. Abre tu navegador en `http://localhost:1313`
+
+## 📝 Estructura del Proyecto
+```
+.
+├── content/           # Contenido del sitio (páginas, posts, proyectos)
+│   ├── authors/      # Perfiles de miembros del equipo
+│   ├── project/      # Proyectos del laboratorio
+│   ├── publication/  # Publicaciones académicas
+│   └── post/         # Blog y noticias
+├── assets/           # Recursos (CSS, JS, imágenes)
+├── config/           # Archivos de configuración
+└── static/           # Archivos estáticos
+```
+
+## ✏️ Cómo Actualizar Contenido
+
+### Agregar un nuevo miembro del equipo
+1. Crea una carpeta en `content/authors/nombre-apellido/`
+2. Agrega el archivo `_index.md` con la información del miembro
+3. Incluye una foto de perfil `avatar.jpg`
+
+### Agregar un nuevo proyecto
+1. Crea una carpeta en `content/project/nombre-proyecto/`
+2. Agrega el archivo `index.md` con los detalles del proyecto
+3. Incluye imágenes relevantes en la misma carpeta
+
+### Publicar una noticia
+1. Crea un archivo en `content/post/titulo-noticia/index.md`
+2. Agrega las imágenes en la misma carpeta
+3. Actualiza el front matter con título, fecha y resumen
+
+## 🚀 Despliegue
+
+El sitio puede desplegarse en múltiples plataformas:
+
+- **GitHub Pages**: Usa GitHub Actions para despliegue automático
+- **Vercel**: Conecta el repositorio para despliegue continuo
+- **Netlify**: Similar a Vercel, con configuración automática
+
+### Construcción para producción
+```bash
+hugo --minify
+```
+
+Los archivos generados estarán en la carpeta `public/`.
+
+## 👥 Equipo
+
+Este sitio es mantenido por el equipo del Laboratorio Aeroespacial de la UVG.
+
+**Coordinador**: MSc. José Bagur  
+**Contacto**: satelite@uvg.edu.gt
+
+## 📄 Licencia
+
+Copyright © 2025 Universidad del Valle de Guatemala. Todos los derechos reservados.
+
+## 🔗 Enlaces Útiles
+
+- [Sitio web de la UVG](https://www.uvg.edu.gt)
+- [Documentación de HugoBlox](https://docs.hugoblox.com/)
+- [Comunidad de Hugo](https://discourse.gohugo.io)
+
+## 📞 Contacto
+
+Para preguntas o sugerencias sobre el sitio web:
+- **Email**: satelite@uvg.edu.gt
+- **Teléfono**: +502 2507-1500 Ext. 21284
+- **Ubicación**: CIT-115A, Campus Central de la UVG
+
+---
+
+Desarrollado con ❤️ desde Guatemala por el equipo del Laboratorio Aeroespacial UVG
