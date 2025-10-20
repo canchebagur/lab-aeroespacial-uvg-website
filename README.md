@@ -122,4 +122,4 @@ Para preguntas o sugerencias sobre el sitio web:
 
 ---
 
-Desarrollado con ❤️ desde Guatemala por el equipo del Laboratorio Aeroespacial UVG
+Desarrollado con ❤️ desde Guatemala por el equipo del Laboratorio Aeroespacial de la UVG
