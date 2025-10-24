@@ -64,7 +64,11 @@ user_groups:
 ---
 
 <div style="text-align: justify;">
-Dan Alvarez es ingeniero electrónico con enfoque en sistemas embebidos y tecnología espacial. Participó en el desarrollo del Quetzal-1, el primer satélite guatemalteco, donde diseñó el Sistema de Determinación y Control de Actitud (ADCS) y la estación terrena. Actualmente asesora el proyecto Quetzal-2 en los subsistemas de ADCS y comunicaciones.
-<br><br>
-Es desarrollador de sistemas embebidos en Aerobots, donde lidera el diseño de hardware y firmware para soluciones industriales y agrícolas. También colabora con la Organización Panamericana de la Salud (OPS/PAHO) como consultor internacional en análisis y visualización de datos de inmunización, impulsando el uso de R en los ministerios de salud de la región.
+
+Dan Alvarez es Ingeniero Electrónico con especialización en sistemas embebidos y desarrollo de tecnología espacial. Participó en el diseño del sistema de determinación y control de actitud (ADCS) y de la estación terrena del QUETZAL-1, el primer satélite guatemalteco. Actualmente asesora el desarrollo del QUETZAL-2, contribuyendo en los subsistemas de ADCS y comunicaciones.
+<br></br>
+Es desarrollador de sistemas embebidos en Aerobots, donde lidera el diseño de hardware y firmware para soluciones industriales y agrícolas. Además, colabora con la Organización Panamericana de la Salud (OPS/PAHO) como consultor internacional en análisis y visualización de datos de inmunización, promoviendo el uso del lenguaje R en los ministerios de salud de la región.
+<br></br>
+Apasionado por el espacio y el hardware abierto, integra la ingeniería, la ciencia de datos y la innovación tecnológica para impulsar proyectos con impacto social y científico.
+
 </div>

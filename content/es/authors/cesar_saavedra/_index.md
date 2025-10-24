@@ -1,78 +1,63 @@
 ---
-# Display name
+# Nombre a desplegar en la página
 title: Ing. César Saavedra
 
-# Full Name (for SEO)
-first_name: César  
+# Nombre Completo
+first_name: César
 last_name: Saavedra
 
-# Is this the primary user of the site?
-superuser: false
+# Admin?
+superuser: true
 
-# Role/position
-role: Investigador del Laboratorio
+# Posición en el Laboratorio
+role: Investigador
 
-# Organizations/Affiliations
+# Organizaciones/Afiliaciones
 organizations:
   - name: Universidad del Valle de Guatemala 
-    url: ''
+    url: 'https://www.uvg.edu.gt'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Biografía corta
+bio: Investigador del Laboratorio Aeroespacial de la UVG, con experiencia en desarrollo de producto, propiedad intelectual, modelado paramétrico (CAD) y simulación (FEA).
 
+# Intereses 
 interests:
   - Nanosatélites
-  - Inteligencia artificial
-  - Sistemas embebidos
-  - Diseño instruccional
+  - Investigación y desarrollo
+  - Diseño CAD
+  - Análisis por Elementos Finitos
+  - Propiedad Intelectual
 
+# Educación
 education:
   courses:
-    - course: M.A. Educación Superior y Tecnología Educativa
+    - course: BSc. Ingeniería Mecánica Industrial
       institution: Universidad del Valle de Guatemala
-      year: 2023
-    - course: MSc. Internet de las Cosas
-      institution: Universidad de Salamanca
-      year: 2017
-    - course: Ingenería en Mecatrónica
-      institution: Universidad del Valle de Guatemala
-      year: 2015  
+      year: 2022  
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'csaavedra@uvg.edu.gt'
+    link: 'mailto:casaavedra@uvg.edu.gt'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/joseantoniobagur/'
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/canchebagur/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/canchebagur
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+    link: 'https://www.linkedin.com/in/cesar-saavedra-m/'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.cesarsaavedra.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Grupo organizacional al que pertenece dentro del Laboratorio
 user_groups:
   - Investigadores
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div style="text-align: justify;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+César Saavedra M., ingeniero mecánico industrial (UVG) e investigador del Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG). Cuenta con experiencia en investigación y desarrollo de tecnología, liderazgo de equipos técnicos y propiedad intelectual. 
+<br></br>
+Aborda con entusiasmo el ciclo de diseño para productos nuevos. Combina el modelado CAD 3D, el método de elementos finitos y la investigación para la toma de decisiones de ingeniería y el desarrollo de propiedad intelectual. Su filosofía de trabajo se basa en la confianza de cada integrante del equipo y la formación continua. 
+</div>

@@ -49,9 +49,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/joseantoniobagur/'
-  - icon: instagram
-    icon_pack: fab
-    link: 'https://www.instagram.com/canchebagur/'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/canchebagur'

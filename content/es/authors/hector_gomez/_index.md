@@ -1,78 +1,64 @@
 ---
-# Display name
+# Nombre a desplegar en la página
 title: MSc. Héctor Gómez
 
-# Full Name (for SEO)
-first_name: Héctor 
-last_name: Gómez
+# Nombre Completo
+first_name: Héctor Francisco
+last_name: Gómez Hernández
 
-# Is this the primary user of the site?
-superuser: false
+# Admin?
+superuser: true
 
-# Role/position
-role: Investigador del Laboratorio
+# Posición en el Laboratorio
+role: Investigador
 
-# Organizations/Affiliations
+# Organizaciones/Afiliaciones
 organizations:
   - name: Universidad del Valle de Guatemala 
-    url: ''
+    url: 'https://www.uvg.edu.gt'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Biografía corta
+bio: Investigador del Laboratorio Aeroespacial de la UVG, profesor del Departamento de Ingeniería Mecánica. Acreedor de la beca Chevening para estudiar una maestría en Systems Engineering Management en Reino Unido en 2022. 
 
+# Intereses 
 interests:
   - Nanosatélites
-  - Inteligencia artificial
-  - Sistemas embebidos
-  - Diseño instruccional
+  - Systems Engineering
+  - Diseño CAD
+  - Project Management
+  - Innovación
 
+# Educación
 education:
   courses:
-    - course: M.A. Educación Superior y Tecnología Educativa
+    - course: MSc. Systems Engineering Management
+      institution: University of Strathclyde (UoS), Glasgow, UK
+      year: 2023     
+    - course: BSc. Ingeniería Mecánica 
       institution: Universidad del Valle de Guatemala
-      year: 2023
-    - course: MSc. Internet de las Cosas
-      institution: Universidad de Salamanca
-      year: 2017
-    - course: Ingenería en Mecatrónica
-      institution: Universidad del Valle de Guatemala
-      year: 2015  
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+      year: 2019 
+# Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'csaavedra@uvg.edu.gt'
+    link: 'mailto:hfgomez@uvg.edu.gt'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/joseantoniobagur/'
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/canchebagur/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/canchebagur
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: 'www.linkedin.com/in/héctor-francisco-gómez-hernández-98994b163'
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Grupo organizacional al que pertenece dentro del Laboratorio
 user_groups:
   - Investigadores
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div style="text-align: justify;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Héctor Gómez es MSc. en Systems Engineering Management por la University of Strathclyde (UoS), Escocia, e Ingeniero Mecánico por la Universidad del Valle de Guatemala (UVG), donde actualmente se desempeña como investigador en el Laboratorio Aeroespacial. Cuenta con experiencia en mejora continua, desarrollo tecnológico y educación.
+<br></br>
+Aborda los proyectos de ingeniería desde una perspectiva sistémica y orientada a resultados, integrando principios de Systems Engineering, diseño y modelado CAD, y gestión de proyectos para transformar ideas en soluciones innovadoras y factibles. Su enfoque combina la planificación estratégica, la mitigación de riesgos y la colaboración multidisciplinaria, promoviendo una cultura de innovación y mejora continua.
+
+</div>
