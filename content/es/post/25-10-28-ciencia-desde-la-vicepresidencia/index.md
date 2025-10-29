@@ -24,7 +24,7 @@ links:
     url: "https://dca.gob.gt/noticias-guatemala-diario-centro-america/quetzal-2-eleva-la-ciencia-aeroespacial/"
   - icon: file-pdf
     icon_pack: fas
-    name: Presentación Ciencia desde la Vicepresidencia
+    name: Presentación QUETZAL-2 Ciencia desde la Vicepresidencia
     url: presentacion_ciencia_desde_la_vicepresidencia_2025.pdf
 ---
 
