@@ -24,8 +24,8 @@ links:
     url: "https://2025.oshwa.org/talks/140-dan-alvarez/"
   - icon: file-pdf
     icon_pack: fas
-    name: Presentación Quetzal-1 - OHS 2025
-    url: "https://docs.google.com/presentation/d/1_hxvjxsq_BIhZoQnVP1GRrsFaaXyr3uFcOQnXRYIwI0/edit?usp=sharing"
+    name: Presentación QUETZAL-1 OHS 2025
+    url: ohs_2025_quetzal1_slides.pdf
 
 ---
 <div style="text-align: justify;">
