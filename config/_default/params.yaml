@@ -116,3 +116,8 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+imaging:
+  quality: 92        # default de Hugo es 75
+  resampleFilter: Lanczos
+  hint: photo        # perfiles de WebP: drawing|icon|photo|picture|text
