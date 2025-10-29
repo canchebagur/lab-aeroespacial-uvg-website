@@ -20,7 +20,7 @@ organizations:
     url: 'https://www.paho.org'
 
 # Biografía corta
-bio: Ingeniero electrónico enfocado en sistemas embebidos y desarrollo de tecnología espacial. Diseñó el sistema ADCS y la estación terrena de Quetzal-1, el primer satélite guatemalteco, y actualmente asesora el desarrollo del Quetzal-2. Apasionado por el espacio y el hardware abierto.
+bio: Ingeniero electrónico enfocado en sistemas embebidos y desarrollo de tecnología espacial. Diseñó el sistema ADCS y la estación terrena de QUETZAL-1, el primer satélite guatemalteco, y actualmente asesora el desarrollo de QUETZAL-2. Apasionado por el espacio y el hardware abierto.
 
 # Intereses 
 interests:
