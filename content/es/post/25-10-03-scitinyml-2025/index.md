@@ -25,7 +25,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Presentación MILO SciTinyML 2025
-    url: "https://file.notion.so/f/f/04b2b27d-68b2-4d3b-acf5-1cc3dad1cd16/2c9b13e9-3bfb-48c5-b86d-32b5ec8605fd/Edge_AI_for_Autonomous_Cloud_Detection_in_Guatemalas_Second_CubeSat.pdf?table=block&id=2886dbff-8adb-8044-9878-e34f7eca5b45&spaceId=04b2b27d-68b2-4d3b-acf5-1cc3dad1cd16&expirationTimestamp=1761350400000&signature=sBHWe0bMDSyzPlWM-yrCLkrTLoEhnwr3J7nKDDiiiRA&downloadName=Edge+AI+for+Autonomous+Cloud+Detection+in+Guatemala%27s+Second+CubeSat.pdf"
+    url: presentacion_scitinyml_2025.pdf
 
 ---
 <div style="text-align: justify;">
