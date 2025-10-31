@@ -46,7 +46,7 @@ sections:
         exclude_past: false
       order: desc
     design:
-      view: compact          # opciones útiles: card | compact | article-grid
+      view: compact       
       columns: '2'
 
   - block: collection
