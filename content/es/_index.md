@@ -26,6 +26,30 @@ sections:
         </div>
         
   - block: collection
+    id: news
+    content:
+      title: |
+        <strong>
+        Noticias Recientes
+        </strong>
+      subtitle: |
+        <div style="text-align: justify;">
+        Actualizaciones sobre eventos, avances y actividades del laboratorio.
+        </div>
+      text: ''
+      count: 2            
+      filters:
+        folders:
+          - post          
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      order: desc
+    design:
+      view: compact          # opciones útiles: card | compact | article-grid
+      columns: '2'
+
+  - block: collection
     id: publications
     content:
       title: 
