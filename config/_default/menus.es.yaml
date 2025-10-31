@@ -2,7 +2,7 @@
 
 main:
   - name: Acerca
-    url: tour
+    url: under_construction
     weight: 10
   - name: Noticias
     url: post
@@ -11,7 +11,7 @@ main:
     url: people
     weight: 30
   - name: Eventos
-    url: event
+    url: under_construction
     weight: 40
   - name: Publicaciones
     url: publication
