@@ -11,7 +11,7 @@ main:
     url: people
     weight: 30
   - name: Eventos
-    url: under_construction
+    url: event
     weight: 40
   - name: Publicaciones
     url: publication
