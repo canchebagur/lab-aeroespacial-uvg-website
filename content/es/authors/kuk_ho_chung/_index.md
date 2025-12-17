@@ -10,12 +10,12 @@ last_name: Chung
 superuser: false
 
 # Posición en el Laboratorio
-role: Asesor 
+role: Investigador
 
 # Organizaciones/Afiliaciones
 organizations:
-  - name: Arduino
-    url: 'https://www.arduino.cc/'
+  - name: Universidad del Valle de Guatemala 
+    url: 'https://www.uvg.edu.gt'
 
 # Biografía corta
 bio: Ingeniero en Mecatrónica con experiencia en sistemas embebidos, , sistemas de propulsión de alto rendimiento, Internet de las Cosas (IoT), inteligencia artificial y documentación técnica para ecosistemas industriales.
@@ -46,7 +46,7 @@ highlight_name: false
 
 # Grupo organizacional al que pertenece dentro del Laboratorio
 user_groups:
-  - Asesores 
+  - Investigadores
 ---
 
 <div style="text-align: justify;">

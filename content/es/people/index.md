@@ -11,7 +11,7 @@ sections:
       user_groups:
         - Investigador Principal
         - Investigadores
-        - Estudiantes de Pregrado
+        - Asistentes de Investigación
         - Investigadores Visitantes
         - Egresados
         - Asesores
@@ -21,4 +21,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      show_organizations: true  
+      columns: '2'           
+      view: card
 ---
