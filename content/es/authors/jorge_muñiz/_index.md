@@ -1,6 +1,6 @@
 ---
-title: Angela Quezada
-role: Egresada de Ingeniería Mecatrónica
+title: Jorge Muñiz
+role: Egresado de Ingeniería Mecatrónica
 organizations:
   - name: ""
 bio: ""

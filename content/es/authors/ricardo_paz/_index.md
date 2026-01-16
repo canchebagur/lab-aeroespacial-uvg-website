@@ -14,7 +14,7 @@ role: Asesor
 
 # Organizaciones/Afiliaciones
 organizations:
-  - name: Tilco Traiding LTD
+  - name: Tilco Trading LTD
     url: 'https://www.linkedin.com/company/tilco-trading-pte/posts/?feedView=all'
   - name: Universidad del Valle de Guatemala
     url: 'https://www.uvg.edu.gt'
