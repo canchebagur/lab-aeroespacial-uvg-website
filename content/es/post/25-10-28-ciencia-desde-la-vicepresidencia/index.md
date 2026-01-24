@@ -4,7 +4,7 @@ subtitle: "El Laboratorio Aeroespacial de la UVG compartió los avances del sat�
 summary: "Durante el programa de divulgación científica *Ciencia desde la Vicepresidencia*, realizado en el Palacio Nacional de la Cultura, José Antonio Bagur, coordinador e investigador del Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG), presentó avances del satélite QUETZAL-2."
 
 authors:
-  - José bagur
+  - José Bagur
 
 categories: ["Eventos", "Proyectos", "Satélites"]
 tags: ["QUETZAL-2", "CubeSat", "Vicepresidencia de Guatemala"]

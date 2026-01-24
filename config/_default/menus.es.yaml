@@ -2,7 +2,7 @@
 
 main:
   - name: Acerca
-    url: under_construction
+    url: tour
     weight: 10
   - name: Noticias
     url: post
