@@ -12,11 +12,11 @@ sections:
       subtitle: ''
       text: |
         <div style="text-align: justify;">
-        El Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG) es la unidad responsable del desarrollo del Programa Espacial Quetzal, el primer programa espacial de Guatemala, una iniciativa pionera que ha posicionado al país como referente en tecnología espacial en Centroamérica.
+        El Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG) es la unidad responsable del desarrollo del <strong>Programa Espacial Quetzal</strong>, el primer programa espacial de Guatemala. Este programa es una iniciativa pionera en la región centroamericana que ha posicionado al país como uno de los referentes en tecnología espacial en la región.<br><br>
 
-        Nuestro equipo está conformado por estudiantes, profesores e investigadores de la UVG que trabajan en el diseño, construcción, prueba y operación de nanosatélites tipo CubeSat. Además del desarrollo de nanosatélites, el laboratorio diseña y opera infraestructura de pruebas, estaciones terrenas y proyectos de investigación aplicada en tecnología espacial.
+        Nuestro equipo está conformado por estudiantes, profesores e investigadores de la UVG que trabajan en el diseño, construcción, prueba y operación de nanosatélites tipo CubeSat. Además del desarrollo de estos nanosatélites, el laboratorio también diseña y opera infraestructura de pruebas, estaciones terrenas y proyectos de investigación aplicada en tecnología espacial.
 
-        El laboratorio constituye también un espacio único en Guatemala para la formación de talento humano en áreas como sistemas embebidos, sistemas de control, diseño electrónico, diseño mecánico, operaciones satelitales y gestión de proyectos espaciales, contribuyendo al desarrollo de capacidades nacionales en el sector aeroespacial.
+        El laboratorio constituye un espacio único en Guatemala para la formación de talento humano en áreas como sistemas embebidos, sistemas de control, diseño electrónico, diseño mecánico, operaciones satelitales y gestión de proyectos espaciales. Con ello, el laboratorio busca seguir contribuyendo al desarrollo de capacidades nacionales en el sector aeroespacial.
         </div>
     design:
       columns: '1'
@@ -62,27 +62,27 @@ sections:
   - block: markdown
     content:
       title: Nuestra Historia
-      subtitle: 'Principales Hitos del Programa Espacial Quetzal'
+      subtitle: 'Principales Hitos del Laboratorio Aeroespacial'
       text: |
         **2014 — Inicio del Programa Espacial Quetzal**  
-        Se inicia en la Universidad del Valle de Guatemala el primer programa espacial del país, con el desarrollo del primer satélite guatemalteco, el QUETZAL-1.
+        Se inicia en la UVG el primer programa espacial del país, con el desarrollo del primer satélite guatemalteco, el QUETZAL-1.
 
-        ---
+        <hr style="margin: 2rem 0; opacity: 0.4;">
 
         **2020 — Lanzamiento de QUETZAL-1**  
-        Guatemala se convierte en una nación espacial y en el segundo país de Centroamérica en colocar un satélite en órbita. QUETZAL-1 es lanzado desde la Estación Espacial Internacional.
+        Guatemala se convierte en una nación espacial y en el segundo país de Centroamérica en colocar un satélite en órbita. QUETZAL-1, el primer satélite guatemalteco, es lanzado al espacio desde la Estación Espacial Internacional.
 
-        ---
+        <hr style="margin: 2rem 0; opacity: 0.4;">
 
         **2021 — Fundación del Laboratorio Aeroespacial**  
-        Se crea el Laboratorio Aeroespacial de la UVG como unidad formal de investigación y desarrollo en tecnología espacial.
+        Se crea el Laboratorio Aeroespacial de la UVG como unidad formal de investigación y desarrollo en tecnología espacial. Es manejado y coordinado por el Departamento de Ingeniería Mecánica de la UVG.
 
-        ---
+        <hr style="margin: 2rem 0; opacity: 0.4;">
 
         **2024 — Inicio del proyecto QUETZAL-2**  
-        Comienza el desarrollo del segundo satélite guatemalteco, incorporando mayores capacidades técnicas y un equipo de estudiantes, profesores e investigadores ampliado.
+        Comienza el desarrollo del segundo satélite guatemalteco, el QUETZAL-2, incorporando mayores capacidades técnicas y un equipo de estudiantes, profesores e investigadores ampliado.
 
-        ---
+        <hr style="margin: 2rem 0; opacity: 0.4;">
 
         **2025 — Desarrollo activo de QUETZAL-2**  
         El proyecto avanza en las fases de diseño detallado, integración y construcción de subsistemas.
