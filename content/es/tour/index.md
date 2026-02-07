@@ -12,7 +12,7 @@ sections:
       subtitle: ''
       text: |
         <div style="text-align: justify;">
-        El Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG) es la unidad responsable del desarrollo del <strong>Programa Espacial Quetzal</strong>, el primer programa espacial de Guatemala. Este programa es una iniciativa pionera en la región centroamericana que ha posicionado al país como uno de los referentes en tecnología espacial en la región.<br><br>
+        El Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG), adscrito al Departamento de Ingeniería Mecánica, es la unidad responsable del desarrollo del Programa Espacial Quetzal, el primer programa espacial de Guatemala. Esta iniciativa pionera en Centroamérica ha posicionado al país como uno de los referentes regionales en tecnología espacial.<br><br>
 
         Nuestro equipo está conformado por estudiantes, profesores e investigadores de la UVG que trabajan en el diseño, construcción, prueba y operación de nanosatélites tipo CubeSat. Además del desarrollo de estos nanosatélites, el laboratorio también diseña y opera infraestructura de pruebas, estaciones terrenas y proyectos de investigación aplicada en tecnología espacial.
 
