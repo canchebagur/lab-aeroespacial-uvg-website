@@ -1,6 +1,6 @@
 ---
 # Metadatos básicos
-title: "Quetzal-1 CubeSat's Command and Data Handling – Design and Development Considerations"
+title: "QUETZAL-1 CubeSat's Command and Data Handling – Design and Development Considerations"
 authors:
   - Emilio Miranda
   - Kuk Ho Chung

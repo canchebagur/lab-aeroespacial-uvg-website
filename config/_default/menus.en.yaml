@@ -1,21 +1,21 @@
 # Navigation Links
 
 main:
-  - name: Acerca
+  - name: About
     url: tour
     weight: 10
-  - name: Noticias
+  - name: News
     url: post
     weight: 20
-  - name: Equipo
+  - name: Team
     url: people
     weight: 30
-  - name: Eventos
+  - name: Events
     url: event
     weight: 40
-  - name: Publicaciones
+  - name: Publications
     url: publication
     weight: 50
-  - name: Contacto
+  - name: Contact
     url: contact
     weight: 60
