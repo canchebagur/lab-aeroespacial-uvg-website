@@ -22,7 +22,7 @@ marketing:
     twitter: 'GetResearchDev'
   analytics:
     google_analytics:
-       measurement_id: G-DV3G6NP956
+       measurement_id: 'G-DV3G6NP956'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
