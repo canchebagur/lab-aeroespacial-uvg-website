@@ -21,8 +21,8 @@ marketing:
     description: 'Sitio oficial del Laboratorio Aeroespacial de la Universidad del Valle de Guatemala (UVG).'
     twitter: 'GetResearchDev'
   analytics:
-    google:
-       measurement_id: 'G-DV3G6NP956'
+    googleAnalytics:
+       ID: 'G-DV3G6NP956'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''

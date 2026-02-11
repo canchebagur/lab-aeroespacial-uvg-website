@@ -6,6 +6,10 @@
 title: Laboratorio Aeroespacial UVG # Website name
 baseURL: 'https://example.com/' # Website URL
 
+services:
+  googleAnalytics:
+    ID: 'G-DV3G6NP956'
+
 ############################
 ## LANGUAGE
 ############################
