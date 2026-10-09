@@ -1,11 +1,11 @@
 ---
-title: José Ucles
-role: Estudiante de Ingeniería Mecánica Industrial
+title: Alan Mishaan
+role: Ingeniería Mecánica Industrial
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Asistentes de Investigación 
 _build:
   render: never
   list: always

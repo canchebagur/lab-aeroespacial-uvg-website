@@ -1,5 +1,5 @@
 ---
-title: Alejandra Palma
+title: María Olga Joachin
 role: Estudiante de Ingeniería Mecatrónica
 organizations:
   - name: ""

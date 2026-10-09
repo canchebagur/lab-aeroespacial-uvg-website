@@ -7,7 +7,7 @@ first_name: Héctor Francisco
 last_name: Gómez Hernández
 
 # Admin?
-superuser: true
+superuser: false
 
 # Posición en el Laboratorio
 role: Investigador
@@ -35,7 +35,7 @@ education:
       institution: University of Strathclyde (UoS), Glasgow, UK
       year: 2023     
     - course: BSc. Ingeniería Mecánica 
-      institution: Universidad del Valle de Guatemala
+      institution: Universidad del Valle de Guatemala (UVG)
       year: 2019 
 # Networking
 social:

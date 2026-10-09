@@ -1,11 +1,11 @@
 ---
-title: José Ucles
-role: Estudiante de Ingeniería Mecánica Industrial
+title: Arnulfo Díaz 
+role: Egresada de Ingeniería Mecatrónica
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Asistentes de Investigación
 _build:
   render: never
   list: always

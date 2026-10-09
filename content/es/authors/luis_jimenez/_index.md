@@ -1,11 +1,11 @@
 ---
-title: José Ucles
-role: Estudiante de Ingeniería Mecánica Industrial
+title: Luis Jiménez 
+role: Estudiante de Ingeniería Mecatrónica
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Asistentes de Investigación
 _build:
   render: never
   list: always
