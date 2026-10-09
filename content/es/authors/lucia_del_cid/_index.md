@@ -1,6 +1,6 @@
 ---
-title: Arnulfo Díaz 
-role: Estudiante de Ingeniería Mecatrónica
+title: Lucía del Cid
+role: Estudiante de International Marketing and Business Analytics
 organizations:
   - name: ""
 bio: ""

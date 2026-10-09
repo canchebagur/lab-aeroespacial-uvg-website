@@ -1,6 +1,6 @@
 ---
-title: Arnulfo Díaz 
-role: Estudiante de Ingeniería Mecatrónica
+title: Lissy Nuñez
+role: Estudiante de International Marketing and Business Analytics
 organizations:
   - name: ""
 bio: ""

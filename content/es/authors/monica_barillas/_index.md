@@ -1,11 +1,11 @@
 ---
-title: Arnulfo Díaz 
+title: Sofía Barillas
 role: Estudiante de Ingeniería Mecatrónica
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Asistentes de Investigación
+  - Egresados
 _build:
   render: never
   list: always

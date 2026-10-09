@@ -1,6 +1,6 @@
 ---
-title: Arnulfo Díaz 
-role: Estudiante de Ingeniería Mecatrónica
+title: Anika Herrera
+role: Estudiante de Ingeniería Mecánica
 organizations:
   - name: ""
 bio: ""
