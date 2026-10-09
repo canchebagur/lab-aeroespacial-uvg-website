@@ -1,6 +1,6 @@
 ---
-title: Alan Mishaan
-role: Estudiante de Ingeniería Mecánica Industrial
+title: Abigail Escobar
+role: Estudiante de Ingeniería en Ciencias de la Computación
 organizations:
   - name: ""
 bio: ""

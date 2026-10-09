@@ -2,23 +2,8 @@
 
 main:
   - name: Acerca
-    url: tour
+    url: /tour/
     weight: 10
-  - name: Noticias
-    url: post
-    weight: 30
-  - name: Equipo
-    url: people
-    weight: 40
-  - name: Eventos
-    url: event
-    weight: 50
-  - name: Publicaciones
-    url: publication
-    weight: 60
-  - name: Contacto
-    url: contact
-    weight: 70
   - name: Proyectos
     identifier: proyectos
     weight: 20
@@ -26,3 +11,18 @@ main:
     url: /project/quetzal-1/
     parent: proyectos
     weight: 1
+  - name: Noticias
+    url: /post/
+    weight: 30
+  - name: Equipo
+    url: /people/
+    weight: 40
+  - name: Eventos
+    url: /event/
+    weight: 50
+  - name: Publicaciones
+    url: /publication/
+    weight: 60
+  - name: Contacto
+    url: /contact/
+    weight: 70
