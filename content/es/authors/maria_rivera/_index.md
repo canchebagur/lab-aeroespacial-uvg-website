@@ -1,11 +1,11 @@
 ---
-title: Britney Lemus
+title: María Renée Rivera
 role: Estudiante de Ingeniería Mecánica
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Asistentes de Investigación
 _build:
   render: never
   list: always

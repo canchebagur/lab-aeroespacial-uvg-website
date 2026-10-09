@@ -14,7 +14,7 @@ role: Investigador
 
 # Organizaciones/Afiliaciones
 organizations:
-  - name: Universidad del Valle de Guatemala 
+  - name: Universidad del Valle de Guatemala
     url: 'https://www.uvg.edu.gt'
 
 # Biografía corta
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: BSc. Ingeniería en Mecatrónica
-      institution: Universidad del Valle de Guatemala
+      institution: Universidad del Valle de Guatemala (UVG)
       year: 2017
 
 # Networking

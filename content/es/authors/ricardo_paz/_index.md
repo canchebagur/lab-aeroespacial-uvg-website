@@ -10,12 +10,10 @@ last_name: Paz Cerezo
 superuser: false
 
 # Posición en el Laboratorio
-role: Asesor
+role: Investigador
 
 # Organizaciones/Afiliaciones
 organizations:
-  - name: Tilco Trading LTD
-    url: 'https://www.linkedin.com/company/tilco-trading-pte/posts/?feedView=all'
   - name: Universidad del Valle de Guatemala
     url: 'https://www.uvg.edu.gt'
 
@@ -34,7 +32,7 @@ interests:
 education:
   courses:
     - course: B.Sc. Ingeniería Mecánica
-      institution: Universidad del Valle de Guatemala
+      institution: Universidad del Valle de Guatemala (UVG)
       year: 2021  
 
 # Redes sociales y contacto
@@ -54,7 +52,7 @@ highlight_name: true
 
 # Grupo organizacional al que pertenece dentro del Laboratorio
 user_groups:
-  - Asesores
+  - Investigadores
 ---
 
 <div style="text-align: justify;">

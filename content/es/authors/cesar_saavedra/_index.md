@@ -7,7 +7,7 @@ first_name: César
 last_name: Saavedra
 
 # Admin?
-superuser: true
+superuser: false
 
 # Posición en el Laboratorio
 role: Investigador
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: BSc. Ingeniería Mecánica Industrial
-      institution: Universidad del Valle de Guatemala
+      institution: Universidad del Valle de Guatemala (UVG)
       year: 2022  
 
 # Networking

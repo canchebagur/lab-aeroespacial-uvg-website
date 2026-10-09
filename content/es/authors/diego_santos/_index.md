@@ -1,11 +1,11 @@
 ---
-title: José Ucles
-role: Estudiante de Ingeniería Mecánica Industrial
+title: Diego Santos
+role: Estudiante de Ingeniería Mecánica
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Asistentes de Investigación
 _build:
   render: never
   list: always

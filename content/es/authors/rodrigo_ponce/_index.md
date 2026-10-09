@@ -1,11 +1,11 @@
 ---
-title: José Ucles
+title: Raúl Ponce
 role: Estudiante de Ingeniería Mecánica Industrial
 organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Asistentes de Investigación
 _build:
   render: never
   list: always
