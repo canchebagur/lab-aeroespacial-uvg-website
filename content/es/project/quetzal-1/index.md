@@ -30,7 +30,7 @@ El proyecto tuvo como objetivo diseñar, construir y operar un nanosatélite tip
 
 Su desarrollo reunió a estudiantes, docentes, ingenieros y egresados de distintas disciplinas, entre ellas ingeniería mecánica, mecánica industrial, mecatrónica, electrónica, ciencias de la computación y física. El equipo contó también con el acompañamiento de asesores nacionales e internacionales.
 
-En 2017, QUETZAL-1 fue seleccionado por la Oficina de Asuntos del Espacio Exterior de las Naciones Unidas (UNOOSA) y la Agencia de Exploración Aeroespacial de Japón (JAXA) como ganador de la [segunda ronda del programa KiboCUBE](https://www.unoosa.org/oosa/en/informationfor/media/2017-unis-os-483.html), que permitió su lanzamiento y posterior despliegue desde la Estación Espacial Internacional.
+En 2017, QUETZAL-1 fue seleccionado por la Oficina de Asuntos del Espacio Exterior de las Naciones Unidas (UNOOSA) y la Agencia de Exploración Aeroespacial de Japón (JAXA) como ganador de la [segunda ronda del programa KiboCUBE](https://www.unoosa.org/oosa/en/informationfor/media/2017-unis-os-483.html), que permitió su lanzamiento y posterior despliegue desde la Estación Espacial Internacional (EEI).
 
 ## Datos generales de la misión
 
@@ -56,7 +56,7 @@ Inicio del proyecto y desarrollo de los primeros estudios y diseños para defini
 
 **Fase 2 (2014–2015): Diseño preliminar**
 
-Desarrollo de la primera versión del diseño del satélite, incorporación de una cámara para observación de la Tierra y construcción del primer prototipo para evaluar los sistemas propuestos.
+Desarrollo de la primera versión del diseño del satélite, incorporación de una cámara para observación de la Tierra y construcción del primer prototipo para evaluar los subsistemas propuestos.
 
 **Fase 3 (2015–2016): Revisión y consolidación del diseño**
 

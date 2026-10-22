@@ -5,7 +5,7 @@ organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Asistentes de Investigación
+  - Egresados
 _build:
   render: never
   list: always
