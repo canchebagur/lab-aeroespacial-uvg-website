@@ -13,7 +13,7 @@ sections:
         - Investigadores
         - Asistentes de Investigación
         - Investigadores Visitantes
-        - Egresados
+        - Miembros Anteriores
         - Asesores
       sort_by: Params.last_name
       sort_ascending: true

@@ -5,7 +5,7 @@ organizations:
   - name: ""
 bio: ""
 user_groups:
-  - Egresados
+  - Miembros Anteriores
 _build:
   render: never
   list: always
